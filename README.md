@@ -1,0 +1,2 @@
+# ZPNewVersionsFeatureAnimation
+本Demo主要介绍了当程序运行新版本以后会首先进入到新版本特性介绍界面，介绍了如何在新版本特性介绍界面上利用UIView封装的动画来实现动画效果。
